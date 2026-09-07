@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+.eggs/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment Variables
+.env
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Claude / AI assistant files
+.claude/
+CLAUDE.md
+codebase_guide.md
+
+# Pytest
+.pytest_cache/
+
+# Jupyter Notebooks (tutorial files, not part of core app)
+*.ipynb
+.ipynb_checkpoints/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Database files
+*.db
+*.sqlite3
